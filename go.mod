@@ -1,6 +1,6 @@
 module adams549659584/go-proxy-bingai
 
-go 1.21.1
+go 1.21.4
 
 toolchain go1.21.6
 
